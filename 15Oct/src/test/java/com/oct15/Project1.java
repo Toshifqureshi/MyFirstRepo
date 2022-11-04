@@ -18,6 +18,6 @@ public static void main(String[] args) throws InterruptedException {
 	String title=driver.getTitle();
 	System.out.println(title);
 	driver.quit();
-	//end of the testcase
+	//end of the testcass
 }
 }
