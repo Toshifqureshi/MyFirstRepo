@@ -7,6 +7,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Project1 {
 public static void main(String[] args) throws InterruptedException {
+	//steo-p to open empty browser
 	//System.setProperty("webdriver.chrome.driver","./src/main/resources/chromedriver.exe");
 	//ChromeDriver driver=new ChromeDriver();
 	WebDriverManager.chromedriver().setup();
